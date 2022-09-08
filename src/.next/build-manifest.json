@@ -1,0 +1,57 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-75283ea1a89f00a8753c.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/3lVcld9D_gnlC6uGgSein/_buildManifest.js",
+    "static/3lVcld9D_gnlC6uGgSein/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/main-ec5dd9dd4e280803cccb.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.f82695197a945dd0cd1a.js",
+      "static/chunks/commons.bbd03aa0cf7af5eec249.js",
+      "static/chunks/59b9cb6703bffb5b4bd85c47d43a702cad56cb61.cf5f2650244422f269f7.js",
+      "static/chunks/71247caf95475e3ea7f9a0f8a30beb258b23d005.8f70eee2759cabb55ea4.js",
+      "static/chunks/pages/index-c6de2e075505501b642c.js"
+    ],
+    "/_app": [
+      "static/chunks/main-ec5dd9dd4e280803cccb.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.f82695197a945dd0cd1a.js",
+      "static/chunks/commons.bbd03aa0cf7af5eec249.js",
+      "static/chunks/59b9cb6703bffb5b4bd85c47d43a702cad56cb61.cf5f2650244422f269f7.js",
+      "static/chunks/71247caf95475e3ea7f9a0f8a30beb258b23d005.8f70eee2759cabb55ea4.js",
+      "static/chunks/a20e5cea5134ae83f60b0b4b37251c39f243e6b6.56970d42f70d855bd48b.js",
+      "static/css/a341a6df8f2879a33f41.css",
+      "static/chunks/pages/_app-65569ba14e73be035cbd.js"
+    ],
+    "/_error": [
+      "static/chunks/main-ec5dd9dd4e280803cccb.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.f82695197a945dd0cd1a.js",
+      "static/chunks/commons.bbd03aa0cf7af5eec249.js",
+      "static/chunks/pages/_error-fe1f1e89c2f2c23c1917.js"
+    ],
+    "/ad/[id]": [
+      "static/chunks/main-ec5dd9dd4e280803cccb.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.f82695197a945dd0cd1a.js",
+      "static/chunks/commons.bbd03aa0cf7af5eec249.js",
+      "static/chunks/pages/ad/[id]-c543f8cec253ad238238.js"
+    ],
+    "/share-thought": [
+      "static/chunks/main-ec5dd9dd4e280803cccb.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.f82695197a945dd0cd1a.js",
+      "static/chunks/commons.bbd03aa0cf7af5eec249.js",
+      "static/chunks/59b9cb6703bffb5b4bd85c47d43a702cad56cb61.cf5f2650244422f269f7.js",
+      "static/chunks/a20e5cea5134ae83f60b0b4b37251c39f243e6b6.56970d42f70d855bd48b.js",
+      "static/chunks/pages/share-thought-ce26c26315965a052b44.js"
+    ]
+  },
+  "ampFirstPages": []
+}
